@@ -6,7 +6,7 @@ This is a simple web application created for the purpose of learning to work wit
 
 ## Design
 
-The web application will store information on player characters for tabletop RPGs.  It is intended to be system agnostic and store character ideas, backgrounds, and other more RP focused character details rather than a full character sheet.
+The web application will store information on non-player characters (NPCs) and quests for Dungeon Masters to have a place to easily access and display information.
 
 ## Available Scripts
 
